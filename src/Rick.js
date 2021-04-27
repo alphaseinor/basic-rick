@@ -1,7 +1,6 @@
 import React from 'react'
 
 const Rick = (rick) => {
-    
     console.log(rick)
 
 
